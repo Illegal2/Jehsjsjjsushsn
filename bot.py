@@ -7,7 +7,7 @@ username = ""		#Username telnet access
 password = ""		#Password telnet access
 logs = True	#Enable/Disable logs (1/0)
 
-TOKEN = ""		#Token of your telegram bot that you created from @BotFather
+TOKEN = ""		#8115447661:AAGyhCL29ij61bafcUWiJbJVvn-Z6lV9o4E
 
 def command(command, output=False):
 	tn = telnetlib.Telnet(HOST, port)
